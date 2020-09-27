@@ -1,5 +1,4 @@
 <?php
-include "config.php";
 $id = isset($_REQUEST['id']) ? $_REQUEST['id'] : '';
 $name = isset($_REQUEST['name']) ? $_REQUEST['name'] : '';
 $url = "https://www.xvideos.com/video$id/$name";
